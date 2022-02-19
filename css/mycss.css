@@ -1,0 +1,90 @@
+.tophdr{
+    background-color: #3498db;
+    color: white;
+    height: 40px;
+    line-height: 40px;
+}
+#social ul{
+    list-style: none;
+}
+#social li{
+    float: left;
+    padding-left: 30px;
+}
+#social a{
+    /* text-decoration: none; */
+    color: white;
+}
+#myCarousel .carousel-inner .item img{
+    height: 85vh;
+}
+#aboutus{
+    padding-bottom: 30px;
+    /* border: 5px solid red; */
+}
+#aboutus h2{
+text-align: center;
+padding: 15px;
+}
+#aboutus img{
+    height: 250px;
+    width: 100%;
+}
+#services
+{
+    padding: 20px;
+    background-color: whitesmoke;
+}
+.carousel-control.left {
+    background: none;
+}
+.carousel-control.right {
+    background: none;
+}
+
+.carousel-control .glyphicon-chevron-right, .carousel-control .icon-next {
+    margin-right: -100px;
+}
+
+.carousel-control .glyphicon-chevron-left, .carousel-control .icon-prev {
+    margin-left: -100px;
+}
+#contact{
+    padding: 20px;
+}
+ #contact form{
+    padding: 30px;
+}
+#contact ul{
+    padding:25px ;
+    text-decoration: none;
+    list-style: none;
+    float: left;
+}#contact li{
+    padding: 0px 10px;
+    float: left;
+}
+#contact .container .col-md-6{
+    padding: 0px;
+}
+/* form {
+    margin: 0px;
+    border: 2px solid red;
+} */
+#c_text{
+    padding-left: 20px;
+}
+#testimonials .col-md-3{
+    padding-top: 30px;
+}
+#footer{
+    color: white ;
+    background-color: rgb(19, 19, 19);
+}
+#footer .container{
+    padding: 20px;
+}
+#copyright
+{
+    padding-top: 10px;
+}
